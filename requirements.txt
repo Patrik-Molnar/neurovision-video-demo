@@ -3,4 +3,4 @@ opencv-python-headless==5.0.0.93
 numpy==2.3.5
 Pillow==13.0.0
 requests==2.34.2
-pandas==2.2.3
+pandas==2.3.3
